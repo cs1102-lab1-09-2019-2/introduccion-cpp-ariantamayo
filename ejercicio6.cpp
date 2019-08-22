@@ -8,7 +8,7 @@ int main() {
         for (auto i : a) {
             cout << i << "\n";
         }
-        // salto de linea
+     
     }
 }
 
