@@ -1,4 +1,7 @@
-
+#include <iostream>
+#include <string>
+#include <assert.h>
+using namespace std;
 bool esPalindromo(int n) {
     bool palindromo = true;
     std::string s = std::to_string(n);
